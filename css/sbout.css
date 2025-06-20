@@ -4,6 +4,12 @@ body {
   color:black;
 }
 
+#sidebar {
+    height: 1000px;
+    width: 250px;
+    background-color: black;
+}
+
 .hero-section {
   background-color: white;
   text-align: center;
@@ -59,7 +65,74 @@ body {
 }
 
 footer {
-  background:white;
-  padding: 20px;
-  text-align: center;
+    height: 300px;
+    background-color: blanchedalmond;
+    margin-top: 100px;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#logo {
+    margin: 10px;
+}
+
+.subdiv2 {
+    line-height: 12px;
+    font-size: 10px;
+}
+
+.foot-div {
+    height: 180px;
+    width: 230px;
+    
+
+}
+
+#subdiv3 {
+    line-height: 13px;
+    font-size: 12px;
+    color: black;
+}
+
+#subdiv4 {
+    font-size: 15px;
+    margin-top: 10px;
+    
+
+}
+
+#subdiv4 i {
+
+    margin: 7px;
+    color: black;
+
+}
+
+.foot-div li {
+    font-size: 14px;
+    list-style: none;
+    color: black;
+
+}
+
+.foot-div-spe {
+    height: 220px;
+    width: 350px;
+    color: black;
+    
+}
+
+.foot-inp {
+    border-radius: 20px;
+    border: none;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    width: 300px;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+.text{
+    margin-left: 30px;
+    color: black;
 }

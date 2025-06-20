@@ -4,6 +4,12 @@ body {
   color: #333;
 }
 
+#sidebar {
+    height: 1000px;
+    width: 250px;
+    background-color: black;
+}
+
 .contact-header {
   background-color: #f0ebff;
 }
@@ -31,7 +37,6 @@ form input, form textarea {
 form button {
   border-radius: 10px;
 }
-
 
 footer {
     height: 300px;
